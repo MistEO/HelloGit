@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-  std::cout << "Hello GitHub!";
-  return 0;
+	std::cout << "Hello Git!" << std::endl;
+	return 0;
 }
